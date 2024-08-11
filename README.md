@@ -1,3 +1,3 @@
 <!DOCTYPE html>
 <html>
-<button>click me</button>
+<button type="button" onclick=alret('hi')">Click me</button>
